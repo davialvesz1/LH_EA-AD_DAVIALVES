@@ -1,1 +1,2 @@
 VIDEO -> https://drive.google.com/file/d/1aW4Y9UxCbShdHo6xGbM9T7Ie9L62ZF5z/view?usp=drive_link
+OS GRÁFICOS DAS QUESTÕES 123 E 4 ESTÃO NO ARQUIVO RELATÓRIO NA PASTA JUPYTER NOTEBOOK!
